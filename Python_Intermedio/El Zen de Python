@@ -1,0 +1,23 @@
+#------------------------------- 20 Principios de Python ------------------------------
+# 1999 -> Fecha de Creacion
+
+The Zen of Python, by Tim Peters
+Beautiful is better than ugly. --> Bello es mejor que feo.
+Explicit is better than implicit. -->Explicito es mejor que implicito.
+Simple is better than complex. --> Simple es mejor que complejo.
+Complex is better than complicated. --> Complejo es mejor que Complicado.
+Flat is better than nested. --> Plano es mejor que Animado.
+Sparse is better than dense. --> Espaciado es mejor que denso.
+Readability counts. --> La legibilidad es iomportante.
+Special cases aren't special enough to break the rules. --> Los casos especialies no son lo suficientemente especiales como para romper las reglas.
+Although practicality beats purity. --> Sin embargo la practividad le gana a la pureza.
+Errors should never pass silently. --> Los errores nunca deberian pasar silenciosamente.
+Unless explicitly silenced. --> A menos que se silencie silenciosamente.
+In the face of ambiguity, refuse the temptation to guess. --> Frente a la ambiguedad, evitar la tentacion de adivinar.
+There should be one-- and preferably only one --obvious way to do it. --> Deberia haber una, y preferiblemente solo una,manera obvia de hacerlo.
+Although that way may not be obvious at first unless you're Dutch. --> A pesar de que esa manera no sea obvia a menos que seas holandes.
+Now is better than never. --> Ahora es mejor que nunca.
+Although never is often better than *right* now. -->  Apesar de que nunca es muchas veces mejor que *ahora* mismo.
+If the implementation is hard to explain, it's a bad idea. --> Si la implementacion es dificil de explicar, es una mala idea.
+If the implementation is easy to explain, it may be a good idea. --> Si la implementacion es facil de explicar, puede que sea una buena idea.
+Namespaces are one honking great idea -- let's do more of those! --> Los espacios de nombres son una gran idra, !tengamos mas de esos¡
